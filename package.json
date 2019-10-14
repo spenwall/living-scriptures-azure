@@ -5,6 +5,8 @@
   "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "airtable": "^0.7.1"
+  },
   "devDependencies": {}
 }
